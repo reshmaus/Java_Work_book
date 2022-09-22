@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e46cb846-3b51-42e0-9a0b-0335fa87d681" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MarsWeek.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/Section_Six.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/out/production/Section_Six/ArrayAndLoops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/out/production/Section_Six/IntroToArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/out/production/Section_Six/Javapedia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/out/production/Section_Six/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/out/production/Section_Six/ReferenceTrap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/out/production/Section_Six/TDArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/out/production/Section_Six/UpdatingArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/src/ArrayAndLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/src/IntroToArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/src/Javapedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/src/ReferenceTrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/src/TDArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_Six/src/UpdatingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_five/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_five/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_five/out/production/Section_five/BlackJack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_five/out/production/Section_five/BreakAndContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_five/out/production/Section_five/ForLoops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_five/out/production/Section_five/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_five/out/production/Section_five/NestedLoops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_five/out/production/Section_five/Poker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_five/out/production/Section_five/WhileLoops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_five/src/BlackJack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_five/src/BreakAndContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_five/src/ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_five/src/NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_five/src/Poker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section_five/src/WhileLoops.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2F7seBuwr1EgBD7C1L0oMn3mj9x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e46cb846-3b51-42e0-9a0b-0335fa87d681" name="Changes" comment="" />
+      <created>1663854550337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663854550337</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
