@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e46cb846-3b51-42e0-9a0b-0335fa87d681" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Inheritance.java/Inheritance.java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MarsWeek/Mars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MarsWeek/Mars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GuessingGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Mars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mars.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
