@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e46cb846-3b51-42e0-9a0b-0335fa87d681" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../CodingChallenge/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodingChallenge/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodingChallenge/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodingChallenge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodingChallenge/CodingChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodingChallenge/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodingChallenge/src/PingPonger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Inheritance.java/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance.java/src/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance.java/src/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
